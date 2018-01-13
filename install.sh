@@ -10,5 +10,3 @@ makepkg -si
 cd ..
 rm -rf /tmp/package-query /tmp/yaourt 
 cd ${cwd}
-rm install.sh
-
